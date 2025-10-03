@@ -1,2 +1,0 @@
-{ "rewrites": [{ "source": "/(.*)", "destination": "/" }] } 
-<script type="module" src="/main.js"></script>
